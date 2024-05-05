@@ -1,5 +1,5 @@
 import "./App.css";
-//import Confetti from "./Confetti";
+import Confetti from "./Confetti";
 
 const shareMessage = "I just ran my first container using Docker";
 const shareLink = "https://docker.com/";
